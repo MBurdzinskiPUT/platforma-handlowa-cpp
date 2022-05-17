@@ -1,0 +1,41 @@
+10
+1
+Priority Market
+-152.2
+-61.7
+2
+Autumn Market
+-114.1
+-46.3
+3
+River Valley Market
+-75.0
+-26.8
+4
+Quick Market
+-30.4
+12.0
+5
+Emporium Market
+9.2
+22.6
+6
+Rural Market
+27.7
+34.3
+7
+Apollo Market
+62.8
+39.0
+8
+Pain Free Market
+99.5
+54.5
+9
+Legacy Market
+124.8
+60.1
+10
+Micro Market
+168.9
+66.2
